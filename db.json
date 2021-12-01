@@ -1,5 +1,4 @@
-{
- "projects" = [
+ [
     {
         "id": "1",
         "name": "Watches Store",
@@ -30,4 +29,4 @@
         "description": " This is Javascript projects with own API.... ",
         "img":"https://i.ibb.co/BfCKFdM/Developercommittee.jpg"
     }
-]}
+]
